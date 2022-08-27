@@ -37,8 +37,8 @@ function Table({empresas=[]}) {
 			<th>Total de ventas
 			<select id="price" value={sales} onChange={handleChange} >
 				<option selected value="" > - </option>
-				<option value="a">Mas+</option>
-				<option value="z">Menos-</option>
+				<option value="a">Mas</option>
+				<option value="z">Menos</option>
 			</select>
 			</th>
 			<th>Comisión</th>
