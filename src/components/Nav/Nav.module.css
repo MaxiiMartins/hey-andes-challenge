@@ -1,0 +1,6 @@
+header{
+    display: flex;
+    flex-direction: column;
+    background-color: #246355;
+    padding: 0.5rem;
+}
